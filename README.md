@@ -26,7 +26,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone https://github.com/paulo-alencar/mini-projeto-todolist-gtech
 
 2. **Instale as dependências: No terminal, dentro da pasta do projeto, execute:**
 
