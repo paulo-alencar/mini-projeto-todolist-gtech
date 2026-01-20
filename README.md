@@ -30,13 +30,13 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 2. **Instale as dependências: No terminal, dentro da pasta do projeto, execute:**
 
-Bash
-npm install
+    ````bash
+    npm install
 
 3. **Inicie a API (Backend): Execute o comando abaixo para rodar o JSON Server na porta 3000:**
 
-Bash
-npm run api
+    ```bash
+    npm run api
 
 4. **Inicie o Frontend:**
 
